@@ -22,4 +22,6 @@ TI hashes: "epiCPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream
 
 
 
-blonde young naked woman, caribbean beach <lora:add_detail:1>
+blonde young petite fit woman, standing in pool, smirk, sexy look to viewer <lora:add_detail:0.8>
+Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves, big breasts, large breasts, big tits, giant tits
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 1432583780, Face restoration: CodeFormer, Size: 768x1024, Model hash: 62bb78983a, Model: epicphotogasm_lastUnicorn, VAE hash: 0b204ad0ca, VAE: vae-ft-ema-560000-ema-pruned.ckpt, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.7.0-5-ge918772c

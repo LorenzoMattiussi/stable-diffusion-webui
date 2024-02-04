@@ -17,6 +17,25 @@
         "lora/more_details": {
             "mtime": 1706999091.6858315,
             "value": {}
+        },
+        "lora/Breast Helper - [Concept] - Version 1.2": {
+            "mtime": 1707043500.7732403,
+            "value": {
+                "modelspec.resolution": "512x512",
+                "ss_network_alpha": "128.0",
+                "sshs_model_hash": "7fe2ffd0386ab3280bbc57d9b1bc116691b0a7bb0a6644e590cc37c74f341a95",
+                "modelspec.architecture": "stable-diffusion-v1/lora",
+                "modelspec.date": "2023-11-19T17:54:38",
+                "modelspec.merged_from": "Breasts_Helper_Trail_v2, Breasts_Helper_Trail_v3-000001",
+                "sshs_legacy_hash": "dbe6ab00",
+                "modelspec.sai_model_spec": "1.0.0",
+                "ss_v2": "False",
+                "modelspec.prediction_type": "epsilon",
+                "ss_network_module": "networks.lora",
+                "modelspec.implementation": "diffusers",
+                "modelspec.title": "test",
+                "ss_network_dim": "128"
+            }
         }
     },
     "hashes": {
