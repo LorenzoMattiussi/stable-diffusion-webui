@@ -1,0 +1,3 @@
+hand on sand <lora:add_detail:1>
+Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 918290520, Size: 768x1024, Model hash: 62bb78983a, Model: epicphotogasm_lastUnicorn, VAE hash: 0b204ad0ca, VAE: vae-ft-ema-560000-ema-pruned.ckpt, Denoising strength: 0.5, Mask blur: 4, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.7.0-6-g28fe4c2e
