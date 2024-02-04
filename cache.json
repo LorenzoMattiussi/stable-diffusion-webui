@@ -1,0 +1,170 @@
+{
+    "safetensors-metadata": {
+        "checkpoint/epicphotogasm_lastUnicorn.safetensors": {
+            "mtime": 1706995966.5348725,
+            "value": {
+                "format": "pt"
+            }
+        },
+        "checkpoint/epicrealism_naturalSinRC1VAE.safetensors": {
+            "mtime": 1706995965.1287613,
+            "value": {}
+        },
+        "lora/add_detail": {
+            "mtime": 1707005037.076263,
+            "value": {}
+        },
+        "lora/more_details": {
+            "mtime": 1706999091.6858315,
+            "value": {}
+        }
+    },
+    "hashes": {
+        "checkpoint/epicphotogasm_lastUnicorn.safetensors": {
+            "mtime": 1706995966.5348725,
+            "sha256": "62bb78983aaa61426b1eb79060bca5c663b94ea02657c43c21f32d58df396692"
+        },
+        "textual_inversion/bad-hands-5": {
+            "mtime": 1706999384.1058297,
+            "sha256": "aa7651be154c46a2f4868788ef84a92b3083b0c0c5c46f5012a56698bfd2a1ba"
+        },
+        "textual_inversion/BadDream": {
+            "mtime": 1707002723.808051,
+            "sha256": "758aac44351557ccfae2fc6bdf3a29670464e4e4eabb61f08c5b8531c221649c"
+        },
+        "textual_inversion/epiCPhotoGasm-colorfulPhoto-neg": {
+            "mtime": 1707000819.0499692,
+            "sha256": "cea9c24d4cbbf24b985a234590f0698e90db369fa9347709072f009ed2cf3c02"
+        },
+        "textual_inversion/epiCPhotoGasm-softPhoto-neg": {
+            "mtime": 1707000824.2007236,
+            "sha256": "68452a2cab70471809933499d50fce0bab8f887cf8fb020066ce2b7c38adf693"
+        },
+        "textual_inversion/UnrealisticDream": {
+            "mtime": 1707002731.608142,
+            "sha256": "a77451e7ea075c7f72d488d2b740b3d3970c671c0ac39dd3155f3c3b129df959"
+        },
+        "vae": {
+            "mtime": 1707001501.0269568,
+            "sha256": "0b204ad0cae549e0a7e298d803d57e36363760dec71c63109c1da3e1147ec520"
+        }
+    },
+    "hashes-addnet": {
+        "lora/add_detail": {
+            "mtime": 1707005037.076263,
+            "sha256": "7c6bad76eb54e80ebe40f5a455b1cf7a743e09fe2fc1289cf333544e3aa071ce"
+        }
+    },
+    "extensions-git": {
+        "adetailer": {
+            "mtime": 1706977736.1751187,
+            "value": {
+                "remote": "https://github.com/Bing-su/adetailer.git",
+                "commit_date": 1706016055,
+                "branch": "main",
+                "commit_hash": "8f01dfdaa9796108f0af16974edc732fe96d7231",
+                "version": "8f01dfda"
+            }
+        },
+        "facechain": {
+            "mtime": 1706977547.0058444,
+            "value": {
+                "remote": "https://github.com/modelscope/facechain.git",
+                "commit_date": 1705460499,
+                "branch": "main",
+                "commit_hash": "98979a16c4a31354f367f86d71d67ecf2bba0ba1",
+                "version": "98979a16"
+            }
+        },
+        "openpose-editor": {
+            "mtime": 1706977855.1084924,
+            "value": {
+                "remote": "https://github.com/fkunn1326/openpose-editor.git",
+                "commit_date": 1697015060,
+                "branch": "master",
+                "commit_hash": "c935771507f57201e26f4ed507aa47f3812ca491",
+                "version": "c9357715"
+            }
+        },
+        "sd-dynamic-prompts": {
+            "mtime": 1706977841.6083403,
+            "value": {
+                "remote": "https://github.com/adieyal/sd-dynamic-prompts.git",
+                "commit_date": 1705403931,
+                "branch": "main",
+                "commit_hash": "7499182064080a062ec2b68ceea3d19c121fef12",
+                "version": "74991820"
+            }
+        },
+        "sd-webui-EasyPhoto": {
+            "mtime": 1706977621.8245168,
+            "value": {
+                "remote": "https://github.com/aigc-apps/sd-webui-EasyPhoto.git",
+                "commit_date": 1705978010,
+                "branch": "main",
+                "commit_hash": "a5708be54117b874f4602316e0a89a6b3f0761ab",
+                "version": "a5708be5"
+            }
+        },
+        "sd-webui-aspect-ratio-helper": {
+            "mtime": 1707000424.9162354,
+            "value": {
+                "remote": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git",
+                "commit_date": 1685893147,
+                "branch": "main",
+                "commit_hash": "99fcf9b0a4e3f8c8cac07b12d17b66f12297b828",
+                "version": "99fcf9b0"
+            }
+        },
+        "sd-webui-comfyui": {
+            "mtime": 1706977895.5821571,
+            "value": {
+                "remote": "https://github.com/ModelSurge/sd-webui-comfyui.git",
+                "commit_date": 1706789862,
+                "branch": "main",
+                "commit_hash": "10e95a42e27f7e7c2b15284491d1e09f2ea9a971",
+                "version": "10e95a42"
+            }
+        },
+        "sd-webui-controlnet": {
+            "mtime": 1706977469.48884,
+            "value": {
+                "remote": "https://github.com/Mikubill/sd-webui-controlnet.git",
+                "commit_date": 1706758198,
+                "branch": "main",
+                "commit_hash": "416c345072c9c2066101e225964e3986abe6945e",
+                "version": "416c3450"
+            }
+        },
+        "sd-webui-reactor": {
+            "mtime": 1706977755.309887,
+            "value": {
+                "remote": "https://github.com/Gourieff/sd-webui-reactor.git",
+                "commit_date": 1706948708,
+                "branch": "main",
+                "commit_hash": "4a7a367ea1a5ea7a7215269bf1c251ae30e40eb1",
+                "version": "4a7a367e"
+            }
+        },
+        "stable-diffusion-webui-wildcards": {
+            "mtime": 1706977973.5973265,
+            "value": {
+                "remote": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards.git",
+                "commit_date": 1690747685,
+                "branch": "master",
+                "commit_hash": "c7d49e18398a95f2d13e2e4c063fe2f63fc2a432",
+                "version": "c7d49e18"
+            }
+        },
+        "ultimate-upscale-for-automatic1111": {
+            "mtime": 1706977859.64109,
+            "value": {
+                "remote": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
+                "commit_date": 1694256443,
+                "branch": "master",
+                "commit_hash": "728ffcec7fa69c83b9e653bf5b96932acdce750f",
+                "version": "728ffcec"
+            }
+        }
+    }
+}

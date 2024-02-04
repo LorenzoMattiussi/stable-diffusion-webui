@@ -19,3 +19,7 @@ Model: epicphotogasm_lastUnicorn
 VAE: vae-ft-ema-560000-ema-pruned.ckpt
 Lora hashes: add_detail
 TI hashes: "epiCPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream
+
+
+
+blonde young naked woman, caribbean beach <lora:add_detail:1>

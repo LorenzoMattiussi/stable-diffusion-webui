@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS= --xformers --opt-split-attention
+set COMMANDLINE_ARGS=--medvram --xformers --opt-split-attention
 
 call webui.bat
