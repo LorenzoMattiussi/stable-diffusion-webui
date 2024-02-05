@@ -247,7 +247,8 @@
     "postprocessing_existing_caption_action": "Ignore",
     "disabled_extensions": [
         "facechain",
-        "sd-webui-EasyPhoto"
+        "sd-webui-EasyPhoto",
+        "sd-webui-comfyui"
     ],
     "disable_all_extensions": "none",
     "restore_config_state_file": "",
@@ -267,14 +268,14 @@
     "hypertile_max_depth_vae": 3,
     "hypertile_max_tile_vae": 128,
     "hypertile_swap_size_vae": 3,
-    "ad_max_models": 2,
+    "ad_max_models": 10,
     "ad_extra_models_dir": "",
-    "ad_save_previews": false,
-    "ad_save_images_before": false,
+    "ad_save_previews": true,
+    "ad_save_images_before": true,
     "ad_only_seleted_scripts": true,
     "ad_script_names": "dynamic_prompting,dynamic_thresholding,wildcard_recursive,wildcards,lora_block_weight,negpip",
     "ad_bbox_sortby": "None",
-    "ad_same_seed_for_each_tap": false,
+    "ad_same_seed_for_each_tap": true,
     "easyphoto_cache_model": true,
     "easyphoto_check_hash": true,
     "comfyui_enabled": true,

@@ -66,6 +66,10 @@
         "vae": {
             "mtime": 1707001501.0269568,
             "sha256": "0b204ad0cae549e0a7e298d803d57e36363760dec71c63109c1da3e1147ec520"
+        },
+        "checkpoint/epicrealism_naturalSinRC1VAE.safetensors": {
+            "mtime": 1706995965.1287613,
+            "sha256": "84d76a0328ee5a1a2a1d466ba7478ab59183e3fea385441528aa4c5d567fd43e"
         }
     },
     "hashes-addnet": {
@@ -136,7 +140,7 @@
             }
         },
         "sd-webui-comfyui": {
-            "mtime": 1706977895.5821571,
+            "mtime": 1707072098.8873885,
             "value": {
                 "remote": "https://github.com/ModelSurge/sd-webui-comfyui.git",
                 "commit_date": 1706789862,

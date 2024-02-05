@@ -1,3 +1,3 @@
-petite european girl, naked, standing <lora:add_detail:0.8>
+fit european 21yo woman, naked, showing vagina, standing in city park, smirk <lora:add_detail:0.8>
 Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves, big breasts, large breasts, big tits, giant tits
-Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 1609058586, Size: 512x904, Model hash: 62bb78983a, Model: epicphotogasm_lastUnicorn, VAE hash: 0b204ad0ca, VAE: vae-ft-ema-560000-ema-pruned.ckpt, Denoising strength: 0.8, Mask blur: 4, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.7.0-5-ge918772c
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 2684797757, Size: 768x1024, Model hash: 62bb78983a, Model: epicphotogasm_lastUnicorn, VAE hash: 0b204ad0ca, VAE: vae-ft-ema-560000-ema-pruned.ckpt, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.7.0-6-gf9272c79
