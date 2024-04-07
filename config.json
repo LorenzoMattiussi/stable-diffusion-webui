@@ -84,7 +84,7 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "sd_model_checkpoint": "realisticVisionV60B1_v51VAE.safetensors [15012c538f]",
+    "sd_model_checkpoint": "epicphotogasm_lastUnicorn.safetensors [62bb78983a]",
     "sd_checkpoints_limit": 1,
     "sd_checkpoints_keep_in_cpu": true,
     "sd_checkpoint_cache": 0,
@@ -252,7 +252,7 @@
     ],
     "disable_all_extensions": "none",
     "restore_config_state_file": "",
-    "sd_checkpoint_hash": "15012c538f503ce2ebfc2c8547b268c75ccdaff7a281db55399940ff1d70e21d",
+    "sd_checkpoint_hash": "62bb78983aaa61426b1eb79060bca5c663b94ea02657c43c21f32d58df396692",
     "ldsr_steps": 100,
     "ldsr_cached": false,
     "SCUNET_tile": 256,
@@ -360,5 +360,6 @@
     "arh_predefined_aspect_ratios": "1:1, 4:3, 16:9, 9:16, 21:9",
     "arh_show_predefined_percentages": false,
     "arh_predefined_percentages": "25, 50, 75, 125, 150, 175, 200",
-    "arh_predefined_percentages_display_key": "Incremental/decremental percentage (-50%, +50%)"
+    "arh_predefined_percentages_display_key": "Incremental/decremental percentage (-50%, +50%)",
+    "SWIN_torch_compile": false
 }
