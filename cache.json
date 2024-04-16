@@ -48,6 +48,102 @@
         "checkpoint/epicrealismxl_zeus.safetensors": {
             "mtime": 1711233028.7270947,
             "value": {}
+        },
+        "checkpoint/epicphotogasm_ultimateFidelity.safetensors": {
+            "mtime": 1712583030.2412202,
+            "value": {}
+        },
+        "checkpoint/copaxTimelessxlSDXL1_v11Lightning.safetensors": {
+            "mtime": 1713136452.7195377,
+            "value": {
+                "sd_merge_models": {
+                    "95f5ffe5532296a8164f12d1423bdaee1f7ecbe31fb32ba2b73cfea41790f9b8": {
+                        "name": "Copax_TimelessLT_4",
+                        "legacy_hash": "971438ad"
+                    },
+                    "be6e02a66333d49aa292a4f697cb71cc349900436f8427ed213d58a0c2f4d120": {
+                        "name": "Copax_TimelessXL_v11",
+                        "legacy_hash": "6c644146"
+                    }
+                },
+                "sd_merge_recipe": {
+                    "type": "sd-webui-supermerger",
+                    "weights_alpha": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25,
+                        0
+                    ],
+                    "weights_beta": "0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5",
+                    "weights_alpha_orig": "1,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25",
+                    "weights_beta_orig": "0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5",
+                    "model_a": "95f5ffe5532296a8164f12d1423bdaee1f7ecbe31fb32ba2b73cfea41790f9b8",
+                    "model_b": "be6e02a66333d49aa292a4f697cb71cc349900436f8427ed213d58a0c2f4d120",
+                    "model_c": "95f5ffe5532296a8164f12d1423bdaee1f7ecbe31fb32ba2b73cfea41790f9b8",
+                    "base_alpha": 1.0,
+                    "base_beta": 0.25,
+                    "mode": "Weight sum",
+                    "mbw": true,
+                    "elemental_merge": "",
+                    "calcmode": "normal",
+                    "Off": [
+                        ""
+                    ]
+                },
+                "format": "pt"
+            }
+        },
+        "checkpoint/dreamshaperXL_lightningDPMSDE.safetensors": {
+            "mtime": 1713136552.708344,
+            "value": {}
+        },
+        "checkpoint/juggernautXL_v9Rdphoto2Lightning.safetensors": {
+            "mtime": 1713136193.6369967,
+            "value": {
+                "sd_merge_models": {
+                    "c785500b037eac006c0e7a5f76dac10abfe8219627c19005180995b3a72d5fa0": {
+                        "name": "JuggernautXL_RDPhoto2_Lighting2.fp16.safetensors",
+                        "legacy_hash": "aebfcabd",
+                        "sd_merge_recipe": null
+                    }
+                },
+                "format": "pt",
+                "sd_merge_recipe": {
+                    "type": "webui",
+                    "primary_model_hash": "c785500b037eac006c0e7a5f76dac10abfe8219627c19005180995b3a72d5fa0",
+                    "secondary_model_hash": null,
+                    "tertiary_model_hash": null,
+                    "interp_method": "No interpolation",
+                    "multiplier": 0,
+                    "save_as_half": false,
+                    "custom_name": "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps",
+                    "config_source": 0,
+                    "bake_in_vae": "sdxl_vae_fp16-fix.safetensors",
+                    "discard_weights": "",
+                    "is_inpainting": false,
+                    "is_instruct_pix2pix": false
+                }
+            }
+        },
+        "checkpoint/realvisxlV40_v40LightningBakedvae.safetensors": {
+            "mtime": 1713136331.2423143,
+            "value": {}
         }
     },
     "hashes": {
@@ -86,6 +182,14 @@
         "checkpoint/realisticVisionV60B1_v51VAE.safetensors": {
             "mtime": 1707155754.8826444,
             "sha256": "15012c538f503ce2ebfc2c8547b268c75ccdaff7a281db55399940ff1d70e21d"
+        },
+        "checkpoint/realisticVisionV60B1_v51VAE-inpainting.safetensors": {
+            "mtime": 1707155826.1735346,
+            "sha256": "4dafaba867b2bd894bf3e1f075a5f68ccb9209dff9aca75e01f8826f7f9edd1f"
+        },
+        "checkpoint/epicphotogasm_ultimateFidelity.safetensors": {
+            "mtime": 1712583030.2412202,
+            "sha256": "e44c7b30c64ff0d7bafb68ed94d0b2f5cf864c23d4c5095731f73239fc636f55"
         }
     },
     "hashes-addnet": {
@@ -96,13 +200,13 @@
     },
     "extensions-git": {
         "adetailer": {
-            "mtime": 1706977736.1751187,
+            "mtime": 1713177554.7831323,
             "value": {
                 "remote": "https://github.com/Bing-su/adetailer.git",
-                "commit_date": 1706016055,
+                "commit_date": 1713094490,
                 "branch": "main",
-                "commit_hash": "8f01dfdaa9796108f0af16974edc732fe96d7231",
-                "version": "8f01dfda"
+                "commit_hash": "94bab91a8a54044820343bcec59837d6183d8521",
+                "version": "94bab91a"
             }
         },
         "facechain": {
@@ -126,13 +230,13 @@
             }
         },
         "sd-dynamic-prompts": {
-            "mtime": 1706977841.6083403,
+            "mtime": 1713177556.191974,
             "value": {
                 "remote": "https://github.com/adieyal/sd-dynamic-prompts.git",
-                "commit_date": 1705403931,
+                "commit_date": 1712814425,
                 "branch": "main",
-                "commit_hash": "7499182064080a062ec2b68ceea3d19c121fef12",
-                "version": "74991820"
+                "commit_hash": "1567e7871a703ab7359a95e3d33fcbd708ce890b",
+                "version": "1567e787"
             }
         },
         "sd-webui-EasyPhoto": {
@@ -166,23 +270,23 @@
             }
         },
         "sd-webui-controlnet": {
-            "mtime": 1706977469.48884,
+            "mtime": 1713177558.9102175,
             "value": {
                 "remote": "https://github.com/Mikubill/sd-webui-controlnet.git",
-                "commit_date": 1706758198,
+                "commit_date": 1713123759,
                 "branch": "main",
-                "commit_hash": "416c345072c9c2066101e225964e3986abe6945e",
-                "version": "416c3450"
+                "commit_hash": "a99998141673129a59cbc4de9628667666c2cb5e",
+                "version": "a9999814"
             }
         },
         "sd-webui-reactor": {
-            "mtime": 1706977755.309887,
+            "mtime": 1712602579.2255833,
             "value": {
                 "remote": "https://github.com/Gourieff/sd-webui-reactor.git",
-                "commit_date": 1706948708,
+                "commit_date": 1710498038,
                 "branch": "main",
-                "commit_hash": "4a7a367ea1a5ea7a7215269bf1c251ae30e40eb1",
-                "version": "4a7a367e"
+                "commit_hash": "ae57149962cd6c17edc0e4c4c868d1355b9daff4",
+                "version": "ae571499"
             }
         },
         "stable-diffusion-webui-wildcards": {
@@ -196,13 +300,23 @@
             }
         },
         "ultimate-upscale-for-automatic1111": {
-            "mtime": 1706977859.64109,
+            "mtime": 1712602580.8006983,
             "value": {
                 "remote": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
-                "commit_date": 1694256443,
+                "commit_date": 1709916937,
                 "branch": "master",
-                "commit_hash": "728ffcec7fa69c83b9e653bf5b96932acdce750f",
-                "version": "728ffcec"
+                "commit_hash": "2322caa480535b1011a1f9c18126d85ea444f146",
+                "version": "2322caa4"
+            }
+        },
+        "clip-interrogator-ext": {
+            "mtime": 1712582435.5998724,
+            "value": {
+                "remote": "https://github.com/pharmapsychotic/clip-interrogator-ext.git",
+                "commit_date": 1694309746,
+                "branch": "main",
+                "commit_hash": "0f1a4591f82b93859a1b854afb79494f39384662",
+                "version": "0f1a4591"
             }
         }
     }

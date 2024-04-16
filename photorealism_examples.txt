@@ -1,22 +1,32 @@
-<nppcrypt version="1016">
-<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
-<key algorithm="scrypt" N="16384" r="8" p="1" salt="xcUDXkO9SM6UBBII7L4rPg==" />
-<iv value="aTYME5HK45M00uL/03XFWA==" method="random" /><tag value="I5Zr0PdFNPEDK5JjKm8ROA==" />
-</nppcrypt>
-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
+beautiful young [Ana de Armas|Amber Heard|Megan fox|Alexandra Daddario], smirk, (walking), white background, long satin dress, epiCRealism <lora:add_detail:1>
+Negative prompt: epiCNegative, epiCPhotoGasm-colorfulPhoto-neg
+Steps: 40
+Sampler: DPM++ 3M SDE Karras
+CFG scale: 6
+Size: 512x768
+
+
+
+
+blonde young naked woman, looking at viewer, sitting on sand <lora:add_detail:1>
+Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves
+Steps: 40
+Sampler: DPM++ 2M Karras
+CFG scale: 5
+Seed: 982327096
+Size: 768x1024
+Model: epicphotogasm_lastUnicorn
+VAE: vae-ft-ema-560000-ema-pruned.ckpt
+Lora hashes: add_detail
+TI hashes: "epiCPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream
+
+
+
+blonde young petite fit woman, standing in pool, smirk, sexy look to viewer <lora:add_detail:0.8>
+Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves, big breasts, large breasts, big tits, giant tits
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 1432583780, Face restoration: CodeFormer, Size: 768x1024, Model hash: 62bb78983a, Model: epicphotogasm_lastUnicorn, VAE hash: 0b204ad0ca, VAE: vae-ft-ema-560000-ema-pruned.ckpt, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.7.0-5-ge918772c
+
+
+european slim model photoshoot of young blonde girl, standing in city park, smiling, aesthetic glasses, sunset, tree shadow <lora:add_detail:0.8>
+Negative prompt: EpicPhotoGasm-softPhoto-neg, bad-hands-5, BadDream, UnrealisticDream,low quality, low detail, noise, blur, bad composition, bad anatomy, bad proportions, poorly drawn face, low detail face, bad effort, bad quality, armor, gloves, body hair
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 3840724543, Face restoration: CodeFormer, Size: 768x1024, Model: epicphotogasm_ultimateFidelity, VAE: vae-ft-ema-560000-ema-pruned.ckpt, ADetailer model: face_yolov8n.pt,ADetailer model 2nd: hand_yolov8n.pt
